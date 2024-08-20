@@ -1,0 +1,674 @@
+{
+  "clients": [
+    {
+      "id": "5",
+      "name": "Ramesh Kumar Chaurasia",
+      "email": "ramesh@inc.com",
+      "phone": "899089898",
+      "clientgroup": "level2",
+      "address": "No 2\nRamraj street, chennai test\nIndai",
+      "type": "SUPPLIER",
+      "status": true
+    },
+    {
+      "id": "6",
+      "name": "Sam",
+      "email": "sas@a",
+      "phone": "sdfcsdcxc",
+      "clientgroup": "level1",
+      "address": "cxcxc",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "7",
+      "name": "anurag",
+      "email": "sas@a",
+      "phone": "sdfcsdcxc",
+      "clientgroup": "level1",
+      "address": "cxcxc",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "9",
+      "name": "animalaaa",
+      "email": "aa@a",
+      "phone": "aa",
+      "clientgroup": "level1",
+      "address": "aaaa",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "10",
+      "name": "aaaaa",
+      "email": "aaa@aa",
+      "phone": "aaa",
+      "clientgroup": "level1",
+      "address": "aaaa",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "11",
+      "name": "aaa",
+      "email": "aa@aa",
+      "phone": "aa",
+      "clientgroup": "level1",
+      "address": "aaa",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "12",
+      "name": "sasas",
+      "email": "sasasa@asa",
+      "phone": "sasas",
+      "clientgroup": "level1",
+      "address": "asasas",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "13",
+      "name": "alpha",
+      "email": "alpha@12.com",
+      "phone": "9898787876",
+      "clientgroup": "level3",
+      "address": "alphaPalace",
+      "type": "SUPPLIER",
+      "status": true
+    },
+    {
+      "id": "15",
+      "name": "baby elephant",
+      "email": "ele@phant",
+      "phone": "121212",
+      "clientgroup": "level1",
+      "address": "elephant kingdom",
+      "type": "SUPPLIER",
+      "status": true
+    },
+    {
+      "id": "16",
+      "name": "Iron-Man",
+      "email": "iron@man",
+      "phone": "6565674744",
+      "clientgroup": "level1",
+      "address": "galaxy",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "17",
+      "name": "ghost",
+      "email": "gh@st",
+      "phone": "4738493888",
+      "clientgroup": "level3",
+      "address": "ghostResidence",
+      "type": "SUPPLIER",
+      "status": true
+    },
+    {
+      "id": "18",
+      "name": "ghostRider",
+      "email": "gh@strider",
+      "phone": "302847643",
+      "clientgroup": "level1",
+      "address": "GhostResidence2",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "19",
+      "name": "Lion",
+      "email": "li@ness",
+      "phone": "4633727282",
+      "clientgroup": "level1",
+      "address": "Jungle",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "20",
+      "name": "AZZZ",
+      "email": "ZZ@S",
+      "phone": "aaaaa",
+      "clientgroup": "level1",
+      "address": "aaa",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "21",
+      "name": "aas",
+      "email": "sas@asa",
+      "phone": "a121221",
+      "clientgroup": "level1",
+      "address": "asasa",
+      "type": "SUPPLIER",
+      "status": true
+    },
+    {
+      "id": "22",
+      "name": "raju",
+      "email": "r@ju",
+      "phone": "1111",
+      "clientgroup": "level2",
+      "address": "11111",
+      "type": "SUPPLIER",
+      "status": false
+    },
+    {
+      "id": "23",
+      "name": "Babur",
+      "email": "akbar@in.com",
+      "phone": "111111111",
+      "clientgroup": "level3",
+      "address": "No 2\nRamraj street\nIndai",
+      "type": "SUPPLIER",
+      "status": true
+    },
+    {
+      "id": "25",
+      "name": "Ramesh Kumar Chaurasia",
+      "email": "ramesh@inc.com",
+      "phone": "899089898",
+      "clientgroup": "level2",
+      "address": "No 2\nRamraj street, chennai test\nIndai",
+      "type": "SUPPLIER",
+      "status": true
+    },
+    {
+      "id": "26",
+      "name": "Sam",
+      "email": "sas@a",
+      "phone": "sdfcsdcxc",
+      "clientgroup": "level1",
+      "address": "cxcxc",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "27",
+      "name": "anurag",
+      "email": "sas@a",
+      "phone": "sdfcsdcxc",
+      "clientgroup": "level1",
+      "address": "cxcxc",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "29",
+      "name": "animalaaa",
+      "email": "aa@a",
+      "phone": "aa",
+      "clientgroup": "level1",
+      "address": "aaaa",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "30",
+      "name": "aaaaa",
+      "email": "aaa@aa",
+      "phone": "aaa",
+      "clientgroup": "level1",
+      "address": "aaaa",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "31",
+      "name": "aaa",
+      "email": "aa@aa",
+      "phone": "aa",
+      "clientgroup": "level1",
+      "address": "aaa",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "32",
+      "name": "sasas",
+      "email": "sasasa@asa",
+      "phone": "sasas",
+      "clientgroup": "level1",
+      "address": "asasas",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "33",
+      "name": "alpha",
+      "email": "alpha@12.com",
+      "phone": "9898787876",
+      "clientgroup": "level3",
+      "address": "alphaPalace",
+      "type": "SUPPLIER",
+      "status": true
+    },
+    {
+      "id": "34",
+      "name": "baby elephant",
+      "email": "ele@phant",
+      "phone": "121212",
+      "clientgroup": "level1",
+      "address": "elephant kingdom",
+      "type": "SUPPLIER",
+      "status": true
+    },
+    {
+      "id": "35",
+      "name": "Iron-Man",
+      "email": "iron@man",
+      "phone": "6565674744",
+      "clientgroup": "level1",
+      "address": "galaxy",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "36",
+      "name": "ghost",
+      "email": "gh@st",
+      "phone": "4738493888",
+      "clientgroup": "level3",
+      "address": "ghostResidence",
+      "type": "SUPPLIER",
+      "status": true
+    },
+    {
+      "id": "37",
+      "name": "ghostRider",
+      "email": "gh@strider",
+      "phone": "302847643",
+      "clientgroup": "level1",
+      "address": "GhostResidence2",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "38",
+      "name": "Lion",
+      "email": "li@ness",
+      "phone": "4633727282",
+      "clientgroup": "level1",
+      "address": "Jungle",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "39",
+      "name": "AZZZ",
+      "email": "ZZ@S",
+      "phone": "aaaaa",
+      "clientgroup": "level1",
+      "address": "aaa",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "40",
+      "name": "aas",
+      "email": "sas@asa",
+      "phone": "a121221",
+      "clientgroup": "level1",
+      "address": "asasa",
+      "type": "SUPPLIER",
+      "status": true
+    },
+    {
+      "id": "41",
+      "name": "raju",
+      "email": "r@ju",
+      "phone": "1111",
+      "clientgroup": "level2",
+      "address": "11111",
+      "type": "SUPPLIER",
+      "status": false
+    },
+    {
+      "id": "42",
+      "name": "Babur",
+      "email": "akbar@in.com",
+      "phone": "111111111",
+      "clientgroup": "level3",
+      "address": "No 2\nRamraj street\nIndai",
+      "type": "SUPPLIER",
+      "status": true
+    },
+    {
+      "id": "43",
+      "name": "Ramesh Kumar Chaurasia",
+      "email": "ramesh@inc.com",
+      "phone": "899089898",
+      "clientgroup": "level2",
+      "address": "No 2\nRamraj street, chennai test\nIndai",
+      "type": "SUPPLIER",
+      "status": true
+    },
+    {
+      "id": "44",
+      "name": "Sam",
+      "email": "sas@a",
+      "phone": "sdfcsdcxc",
+      "clientgroup": "level1",
+      "address": "cxcxc",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "47",
+      "name": "anurag",
+      "email": "sas@a",
+      "phone": "sdfcsdcxc",
+      "clientgroup": "level1",
+      "address": "cxcxc",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "48",
+      "name": "animalaaa",
+      "email": "aa@a",
+      "phone": "aa",
+      "clientgroup": "level1",
+      "address": "aaaa",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "50",
+      "name": "aaaaa",
+      "email": "aaa@aa",
+      "phone": "aaa",
+      "clientgroup": "level1",
+      "address": "aaaa",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "51",
+      "name": "aaa",
+      "email": "aa@aa",
+      "phone": "aa",
+      "clientgroup": "level1",
+      "address": "aaa",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "52",
+      "name": "sasas",
+      "email": "sasasa@asa",
+      "phone": "sasas",
+      "clientgroup": "level1",
+      "address": "asasas",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "53",
+      "name": "alpha",
+      "email": "alpha@12.com",
+      "phone": "9898787876",
+      "clientgroup": "level3",
+      "address": "alphaPalace",
+      "type": "SUPPLIER",
+      "status": true
+    },
+    {
+      "id": "54",
+      "name": "baby elephant",
+      "email": "ele@phant",
+      "phone": "121212",
+      "clientgroup": "level1",
+      "address": "elephant kingdom",
+      "type": "SUPPLIER",
+      "status": true
+    },
+    {
+      "id": "55",
+      "name": "Iron-Man",
+      "email": "iron@man",
+      "phone": "6565674744",
+      "clientgroup": "level1",
+      "address": "galaxy",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "56",
+      "name": "ghost",
+      "email": "gh@st",
+      "phone": "4738493888",
+      "clientgroup": "level3",
+      "address": "ghostResidence",
+      "type": "SUPPLIER",
+      "status": true
+    },
+    {
+      "id": "57",
+      "name": "ghostRider",
+      "email": "gh@strider",
+      "phone": "302847643",
+      "clientgroup": "level1",
+      "address": "GhostResidence2",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "58",
+      "name": "Lion",
+      "email": "li@ness",
+      "phone": "4633727282",
+      "clientgroup": "level1",
+      "address": "Jungle",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "59",
+      "name": "AZZZ",
+      "email": "ZZ@S",
+      "phone": "aaaaa",
+      "clientgroup": "level1",
+      "address": "aaa",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "60",
+      "name": "aas",
+      "email": "sas@asa",
+      "phone": "a121221",
+      "clientgroup": "level1",
+      "address": "asasa",
+      "type": "SUPPLIER",
+      "status": true
+    },
+    {
+      "id": "61",
+      "name": "raju",
+      "email": "r@ju",
+      "phone": "1111",
+      "clientgroup": "level2",
+      "address": "11111",
+      "type": "SUPPLIER",
+      "status": false
+    },
+    {
+      "id": "62",
+      "name": "Babur",
+      "email": "akbar@in.com",
+      "phone": "111111111",
+      "clientgroup": "level3",
+      "address": "No 2\nRamraj street\nIndai",
+      "type": "SUPPLIER",
+      "status": true
+    },
+    {
+      "id": "63",
+      "name": "Ramesh Kumar Chaurasia",
+      "email": "ramesh@inc.com",
+      "phone": "899089898",
+      "clientgroup": "level2",
+      "address": "No 2\nRamraj street, chennai test\nIndai",
+      "type": "SUPPLIER",
+      "status": true
+    },
+    {
+      "id": "64",
+      "name": "Sam",
+      "email": "sas@a",
+      "phone": "sdfcsdcxc",
+      "clientgroup": "level1",
+      "address": "cxcxc",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "65",
+      "name": "anurag",
+      "email": "sas@a",
+      "phone": "sdfcsdcxc",
+      "clientgroup": "level1",
+      "address": "cxcxc",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "66",
+      "name": "animalaaa",
+      "email": "aa@a",
+      "phone": "aa",
+      "clientgroup": "level1",
+      "address": "aaaa",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "67",
+      "name": "aaaaa",
+      "email": "aaa@aa",
+      "phone": "aaa",
+      "clientgroup": "level1",
+      "address": "aaaa",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "68",
+      "name": "aaa",
+      "email": "aa@aa",
+      "phone": "aa",
+      "clientgroup": "level1",
+      "address": "aaa",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "69",
+      "name": "sasas",
+      "email": "sasasa@asa",
+      "phone": "sasas",
+      "clientgroup": "level1",
+      "address": "asasas",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "70",
+      "name": "alpha",
+      "email": "alpha@12.com",
+      "phone": "9898787876",
+      "clientgroup": "level3",
+      "address": "alphaPalace",
+      "type": "SUPPLIER",
+      "status": true
+    },
+    {
+      "id": "71",
+      "name": "baby elephant",
+      "email": "ele@phant",
+      "phone": "121212",
+      "clientgroup": "level1",
+      "address": "elephant kingdom",
+      "type": "SUPPLIER",
+      "status": true
+    },
+    {
+      "id": "73",
+      "name": "Iron-Man",
+      "email": "iron@man",
+      "phone": "6565674744",
+      "clientgroup": "level1",
+      "address": "galaxy",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "74",
+      "name": "ghost",
+      "email": "gh@st",
+      "phone": "4738493888",
+      "clientgroup": "level3",
+      "address": "ghostResidence",
+      "type": "SUPPLIER",
+      "status": true
+    },
+    {
+      "id": "77",
+      "name": "ghostRider",
+      "email": "gh@strider",
+      "phone": "302847643",
+      "clientgroup": "level1",
+      "address": "GhostResidence2",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "78",
+      "name": "Lion",
+      "email": "li@ness",
+      "phone": "4633727282",
+      "clientgroup": "level1",
+      "address": "Jungle",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "79",
+      "name": "AZZZ",
+      "email": "ZZ@S",
+      "phone": "aaaaa",
+      "clientgroup": "level1",
+      "address": "aaa",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": "80",
+      "name": "aas",
+      "email": "sas@asa",
+      "phone": "a121221",
+      "clientgroup": "level1",
+      "address": "asasa",
+      "type": "SUPPLIER",
+      "status": true
+    },
+    {
+      "id": "81",
+      "name": "raju",
+      "email": "r@ju",
+      "phone": "1111",
+      "clientgroup": "level2",
+      "address": "11111",
+      "type": "SUPPLIER",
+      "status": false
+    }
+  ]
+}
